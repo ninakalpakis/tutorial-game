@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tutorial-game/static/css/main.74c759b3.chunk.css",
+    "main.js": "/tutorial-game/static/js/main.a9dc7e45.chunk.js",
+    "main.js.map": "/tutorial-game/static/js/main.a9dc7e45.chunk.js.map",
+    "runtime-main.js": "/tutorial-game/static/js/runtime-main.9c569a41.js",
+    "runtime-main.js.map": "/tutorial-game/static/js/runtime-main.9c569a41.js.map",
+    "static/js/2.4b7a64e6.chunk.js": "/tutorial-game/static/js/2.4b7a64e6.chunk.js",
+    "static/js/2.4b7a64e6.chunk.js.map": "/tutorial-game/static/js/2.4b7a64e6.chunk.js.map",
+    "index.html": "/tutorial-game/index.html",
+    "static/css/main.74c759b3.chunk.css.map": "/tutorial-game/static/css/main.74c759b3.chunk.css.map",
+    "static/js/2.4b7a64e6.chunk.js.LICENSE.txt": "/tutorial-game/static/js/2.4b7a64e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c569a41.js",
+    "static/js/2.4b7a64e6.chunk.js",
+    "static/css/main.74c759b3.chunk.css",
+    "static/js/main.a9dc7e45.chunk.js"
+  ]
+}
